@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+reactme/node_modules
+package-lock.json
+.env
